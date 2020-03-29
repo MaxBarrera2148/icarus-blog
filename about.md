@@ -1,6 +1,7 @@
 ---
 layout: page
 title: about
+---
 
 This is the first iteration of the icarus tech blog page. 
 
