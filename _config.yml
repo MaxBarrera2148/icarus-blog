@@ -1,0 +1,9 @@
+#basic options
+title: Icarus Blog
+author: Max Barrera
+email: m.a.testemail@test.com
+description: test blog
+
+#build settings
+markdown: kramdown
+theme: minima
